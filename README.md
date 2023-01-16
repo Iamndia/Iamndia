@@ -1,2 +1,4 @@
-### Hi there 👋👋👋
-hi guys this is nadia.i use github to store the things i learned while learning programming like python,java,html,css,and others.
+
+<h1 align="center">Hi 👋, I'm Nadia</h1>
+<h3 align="center">I am a student of West Sulawesi University</h3>
+<h3 align="center">Newly honed skills</h3>
